@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  body{
+    font-family:Arial;
+    background-image: url(../images/imagenfondologin.jpg);
+    }
+
+    .form-login{
+    width: 400px;
+    height: 500px;
+    background: rgb(255, 255, 255, 0.5);
+    margin: auto;
+    margin-top: 130px;
+    padding: auto;
+    color: white;
+    border-radius: 10pt;
+    }  
+
+    .form-login h5{
+        margin: 12px;
+        text-align: center;
+        height: 80px;
+        margin-bottom: 30px;
+        border-bottom: 1px solid;
+        font-size: 40px;
+        border: beige;
+    } 
+
+    .controls{
+        width: 70%;
+        border: 1px solid rgb(4, 8, 57);
+        margin-bottom: 30px;
+        padding: 11px 10px;
+        background: rgb(255, 255, 255);
+        font-size: 14px;
+        font-weight: bold;
+    } 
+
+    .button{
+        width:70%;
+        height:40px;
+        background: #017bab;
+        border: none;
+        color: white;
+        margin-bottom: 100px;
+    }
+    .form-login p{
+        height: 40px;
+        text-align: center;
+        border-bottom: 1px solid;
+    } 
+
+    .form-login a{
+        color: white;
+        text-decoration: none;
+        font-size: 14px;
+    } 
+    .form-login a:hover{
+     text-decoration: underline;
+
+    } 
+
+
+ 
