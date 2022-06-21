@@ -602,6 +602,10 @@ banner
   position: relative;
 }
 
+.menu:hover {
+     color: #082f3a;
+}
+
 #bg-video {
     min-width: 100%;
     min-height: 100vh;
